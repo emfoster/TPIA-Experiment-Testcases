@@ -1156,7 +1156,7 @@ object load:621 {
      parent R4-12-47-1_meter_1; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 947.5100669999999+483.80509800000004j;
+     constant_power_C 1082.868648+552.920112j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1168,9 +1168,9 @@ object load:622 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 38878.6034+20256.1009j;
+     constant_power_A 44432.6896+23149.8296j;
      constant_power_B 0+0j;
-     constant_power_C 39479.586299999995+20158.5454j;
+     constant_power_C 45119.5272+23038.3376j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1182,7 +1182,7 @@ object load:623 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 23327.16225+12153.66075j;
+     constant_power_A 26659.614+13889.898j;
      constant_power_B 0+0j;
      constant_power_C 0+0j;
      nominal_voltage 480; 
@@ -1196,9 +1196,9 @@ object load:624 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 77757.20715+40512.2018j;
+     constant_power_A 88865.3796+46299.6592j;
      constant_power_B 0+0j;
-     constant_power_C 15791.834449999998+8063.418299999999j;
+     constant_power_C 18047.8108+9215.3352j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1210,9 +1210,9 @@ object load:625 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 259709.07129999998+135310.75460000001j;
-     constant_power_B 215636.1256+116258.26939999999j;
-     constant_power_C 263723.6364+134659.084j;
+     constant_power_A 296810.3672+154640.8624j;
+     constant_power_B 246441.2864+132866.5936j;
+     constant_power_C 301398.4416+153896.096j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1223,8 +1223,8 @@ object load:626 {
      phases ABN; 
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
-     constant_power_A 38878.6034+20256.1009j;
-     constant_power_B 32280.857000000004+17403.9327j;
+     constant_power_A 44432.6896+23149.8296j;
+     constant_power_B 36892.408+19890.2088j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1237,7 +1237,7 @@ object load:627 {
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
-     constant_power_B 4299.810152399999+2318.2038589500003j;
+     constant_power_B 4914.0687456+2649.3758388j;
      constant_power_C 0+0j;
      nominal_voltage 480; 
      load_class C; 
@@ -1250,9 +1250,9 @@ object load:628 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 77757.20715+40512.2018j;
-     constant_power_B 64561.714349999995+34807.86505j;
-     constant_power_C 78959.17259999999+40317.09115j;
+     constant_power_A 88865.3796+46299.6592j;
+     constant_power_B 73784.8164+39780.4172j;
+     constant_power_C 90239.0544+46076.6756j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1263,8 +1263,8 @@ object load:629 {
      phases ACN; 
      voltage_A 7967.43+0.0j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 22160.803938+11545.977513j;
-     constant_power_C 9001.3456365+4596.148431j;
+     constant_power_A 25326.633072+13195.402872j;
+     constant_power_C 10287.252156+5252.741064j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1274,7 +1274,7 @@ object load:630 {
      parent R4-12-47-1_meter_10; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 789.5917225+403.170915j;
+     constant_power_C 902.39054+460.76676j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1286,8 +1286,8 @@ object load:631 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 38878.6034+20256.1009j;
-     constant_power_B 32280.857000000004+17403.9327j;
+     constant_power_A 44432.6896+23149.8296j;
+     constant_power_B 36892.408+19890.2088j;
      constant_power_C 0+0j;
      nominal_voltage 480; 
      load_class C; 
@@ -1299,8 +1299,8 @@ object load:632 {
      phases ACN; 
      voltage_A 7967.43+0.0j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 77757.20715+40512.2018j;
-     constant_power_C 78959.17259999999+40317.09115j;
+     constant_power_A 88865.3796+46299.6592j;
+     constant_power_C 90239.0544+46076.6756j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1310,7 +1310,7 @@ object load:633 {
      parent R4-12-47-1_meter_13; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 39440.1067137+20138.38697115j;
+     constant_power_C 45074.4076728+23015.2993956j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1320,7 +1320,7 @@ object load:634 {
      parent R4-12-47-1_meter_14; 
      phases BN; 
      voltage_B -3983.72-6900j; 
-     constant_power_B 10749.525381+5795.5095891j;
+     constant_power_B 12285.171864+6623.4395304j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1330,7 +1330,7 @@ object load:635 {
      parent R4-12-47-1_meter_15; 
      phases BN; 
      voltage_B -3983.72-6900j; 
-     constant_power_B 10749.525381+5795.5095891j;
+     constant_power_B 12285.171864+6623.4395304j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1340,7 +1340,7 @@ object load:636 {
      parent R4-12-47-1_meter_16; 
      phases AN; 
      voltage_A 7967.43+0.0j; 
-     constant_power_A 25893.149980950002+13490.5631994j;
+     constant_power_A 29592.1714068+15417.7865136j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1351,8 +1351,8 @@ object load:637 {
      phases ABN; 
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
-     constant_power_A 12946.574932200001+6745.2815997j;
-     constant_power_B 10749.525381+5795.5095891j;
+     constant_power_A 14796.0856368+7708.8932568j;
+     constant_power_B 12285.171864+6623.4395304j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1364,8 +1364,8 @@ object load:638 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 38878.6034+20256.1009j;
-     constant_power_B 32280.857000000004+17403.9327j;
+     constant_power_A 44432.6896+23149.8296j;
+     constant_power_B 36892.408+19890.2088j;
      constant_power_C 0+0j;
      nominal_voltage 480; 
      load_class C; 
@@ -1378,9 +1378,9 @@ object load:639 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 51786.29984535+26981.12651535j;
-     constant_power_B 42998.1017571+23182.0381233j;
-     constant_power_C 52586.808951600004+26851.182589350003j;
+     constant_power_A 59184.3426804+30835.5731604j;
+     constant_power_B 49140.6877224+26493.7578552j;
+     constant_power_C 60099.2102304+30687.0658164j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1391,8 +1391,8 @@ object load:640 {
      phases BCN; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_B 96842.57135000001+52211.79775j;
-     constant_power_C 118438.7589+60475.63655j;
+     constant_power_B 110677.2244+59670.626j;
+     constant_power_C 135358.5816+69115.0132j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1404,7 +1404,7 @@ object load:641 {
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
      constant_power_B 0+0j;
-     constant_power_C 7816.958110500001+3991.3920585j;
+     constant_power_C 8933.666412+4561.590924j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1415,8 +1415,8 @@ object load:642 {
      phases BCN; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_B 32280.857000000004+17403.9327j;
-     constant_power_C 39479.586299999995+20158.5454j;
+     constant_power_B 36892.408+19890.2088j;
+     constant_power_C 45119.5272+23038.3376j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1426,7 +1426,7 @@ object load:643 {
      parent R4-12-47-1_meter_23; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 33557.648355000005+17134.763590000002j;
+     constant_power_C 38351.59812+19582.58696j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1436,7 +1436,7 @@ object load:644 {
      parent R4-12-47-1_meter_24; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 2629.3404942+1342.55914695j;
+     constant_power_C 3004.9605648+1534.3533108j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1446,7 +1446,7 @@ object load:645 {
      parent R4-12-47-1_meter_25; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 15791.834449999998+8063.418299999999j;
+     constant_power_C 18047.8108+9215.3352j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1457,8 +1457,8 @@ object load:646 {
      phases BCN; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_B 64561.714349999995+34807.86505j;
-     constant_power_C 39479.586299999995+20158.5454j;
+     constant_power_B 73784.8164+39780.4172j;
+     constant_power_C 45119.5272+23038.3376j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1468,7 +1468,7 @@ object load:647 {
      parent R4-12-47-1_meter_27; 
      phases BN; 
      voltage_B -3983.72-6900j; 
-     constant_power_B 12912.3428+6961.57315j;
+     constant_power_B 14756.9632+7956.0836j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1480,9 +1480,9 @@ object load:648 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 38878.6034+20256.1009j;
+     constant_power_A 44432.6896+23149.8296j;
      constant_power_B 0+0j;
-     constant_power_C 39479.586299999995+20158.5454j;
+     constant_power_C 45119.5272+23038.3376j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1493,8 +1493,8 @@ object load:649 {
      phases ACN; 
      voltage_A 7967.43+0.0j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 38878.6034+20256.1009j;
-     constant_power_C 39479.586299999995+20158.5454j;
+     constant_power_A 44432.6896+23149.8296j;
+     constant_power_C 45119.5272+23038.3376j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1504,7 +1504,7 @@ object load:650 {
      parent R4-12-47-1_meter_30; 
      phases AN; 
      voltage_A 7967.43+0.0j; 
-     constant_power_A 12946.574932200001+6745.2815997j;
+     constant_power_A 14796.0856368+7708.8932568j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1516,8 +1516,8 @@ object load:651 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 21772.017904+11343.416504j;
-     constant_power_B 7230.911967999999+3898.480964j;
+     constant_power_A 24882.306176+12963.904576j;
+     constant_power_B 8263.899392+4455.406816j;
      constant_power_C 0+0j;
      nominal_voltage 480; 
      load_class C; 
@@ -1528,7 +1528,7 @@ object load:652 {
      parent R4-12-47-1_meter_32; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 4737.55037+2419.02549j;
+     constant_power_C 5414.34328+2764.60056j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1538,7 +1538,7 @@ object load:653 {
      parent R4-12-47-1_meter_33; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 9475.100712+4838.050938j;
+     constant_power_C 10828.686528+5529.201072j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1549,8 +1549,8 @@ object load:654 {
      phases ACN; 
      voltage_A 7967.43+0.0j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 50542.184647500006+26332.93117j;
-     constant_power_C 10264.692392500001+5241.221895000001j;
+     constant_power_A 57762.49674+30094.77848j;
+     constant_power_C 11731.07702+5989.96788j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1564,7 +1564,7 @@ object load:655 {
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
      constant_power_B 0+0j;
-     constant_power_C 25266.935232+12901.469168j;
+     constant_power_C 28876.497408+14744.536192j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1574,7 +1574,7 @@ object load:656 {
      parent R4-12-47-1_meter_36; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 27240.914547+13909.396326j;
+     constant_power_C 31132.473768+15896.452944j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1584,7 +1584,7 @@ object load:657 {
      parent R4-12-47-1_meter_37; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 592.1937945+302.378181j;
+     constant_power_C 676.792908+345.575064j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1594,7 +1594,7 @@ object load:658 {
      parent R4-12-47-1_meter_38; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 14212.651068+7257.076344000001j;
+     constant_power_C 16243.029792+8293.801536j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1606,9 +1606,9 @@ object load:659 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 259709.07129999998+135310.75460000001j;
-     constant_power_B 215636.1256+116258.26939999999j;
-     constant_power_C 263723.6364+134659.084j;
+     constant_power_A 296810.3672+154640.8624j;
+     constant_power_B 246441.2864+132866.5936j;
+     constant_power_C 301398.4416+153896.096j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1618,7 +1618,7 @@ object load:660 {
      parent R4-12-47-1_meter_40; 
      phases BN; 
      voltage_B -3983.72-6900j; 
-     constant_power_B 8715.831452999999+4699.061766j;
+     constant_power_B 9960.950232+5370.356304j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1632,7 +1632,7 @@ object load:661 {
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
      constant_power_B 0+0j;
-     constant_power_C 27635.71041+14110.98178j;
+     constant_power_C 31583.66904+16126.83632j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1642,7 +1642,7 @@ object load:662 {
      parent R4-12-47-1_meter_42; 
      phases AN; 
      voltage_A 7967.43+0.0j; 
-     constant_power_A 37323.459264000005+19445.856863999998j;
+     constant_power_A 42655.382016+22223.836416j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1652,7 +1652,7 @@ object load:663 {
      parent R4-12-47-1_meter_43; 
      phases AN; 
      voltage_A 7967.43+0.0j; 
-     constant_power_A 38878.6034+20256.1009j;
+     constant_power_A 44432.6896+23149.8296j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1666,7 +1666,7 @@ object load:664 {
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
      constant_power_B 0+0j;
-     constant_power_C 13146.702237900001+6712.7956182j;
+     constant_power_C 15024.8025576+7671.7664208j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1676,7 +1676,7 @@ object load:665 {
      parent R4-12-47-1_meter_45; 
      phases BN; 
      voltage_B -3983.72-6900j; 
-     constant_power_B 12912.3428+6961.57315j;
+     constant_power_B 14756.9632+7956.0836j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1686,7 +1686,7 @@ object load:666 {
      parent R4-12-47-1_meter_46; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 8290.713123+4233.294534j;
+     constant_power_C 9475.100712+4838.050896j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1698,9 +1698,9 @@ object load:667 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 77757.20715+40512.2018j;
-     constant_power_B 64561.714349999995+34807.86505j;
-     constant_power_C 78959.17259999999+40317.09115j;
+     constant_power_A 88865.3796+46299.6592j;
+     constant_power_B 73784.8164+39780.4172j;
+     constant_power_C 90239.0544+46076.6756j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1712,9 +1712,9 @@ object load:668 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 77757.20697500001+40512.201974999996j;
-     constant_power_B 107818.0628+58129.134699999995j;
-     constant_power_C 78959.17259999999+40317.090975j;
+     constant_power_A 88865.3794+46299.6594j;
+     constant_power_B 123220.6432+66433.2968j;
+     constant_power_C 90239.0544+46076.6754j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1726,8 +1726,8 @@ object load:669 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 38878.6034+20256.1009j;
-     constant_power_B 12912.3428+6961.57315j;
+     constant_power_A 44432.6896+23149.8296j;
+     constant_power_B 14756.9632+7956.0836j;
      constant_power_C 0+0j;
      nominal_voltage 480; 
      load_class C; 
@@ -1739,8 +1739,8 @@ object load:670 {
      phases BCN; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_B 32280.857000000004+17403.9327j;
-     constant_power_C 15791.834449999998+8063.418299999999j;
+     constant_power_B 36892.408+19890.2088j;
+     constant_power_C 18047.8108+9215.3352j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1751,8 +1751,8 @@ object load:671 {
      phases BCN; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_B 32280.857000000004+17403.9327j;
-     constant_power_C 15791.834449999998+8063.418299999999j;
+     constant_power_B 36892.408+19890.2088j;
+     constant_power_C 18047.8108+9215.3352j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1763,8 +1763,8 @@ object load:672 {
      phases ABN; 
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
-     constant_power_A 38878.6034+20256.1009j;
-     constant_power_B 12912.3428+6961.57315j;
+     constant_power_A 44432.6896+23149.8296j;
+     constant_power_B 14756.9632+7956.0836j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1778,7 +1778,7 @@ object load:673 {
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
      constant_power_B 0+0j;
-     constant_power_C 631.673378+322.536732j;
+     constant_power_C 721.912432+368.613408j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1791,8 +1791,8 @@ object load:674 {
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
-     constant_power_B 10749.525381+5795.5095891j;
-     constant_power_C 13146.702237900001+6712.7956182j;
+     constant_power_B 12285.171864+6623.4395304j;
+     constant_power_C 15024.8025576+7671.7664208j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1802,7 +1802,7 @@ object load:675 {
      parent R4-12-47-1_meter_55; 
      phases BN; 
      voltage_B -3983.72-6900j; 
-     constant_power_B 13557.95994+7309.651734j;
+     constant_power_B 15494.81136+8353.887696j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1812,7 +1812,7 @@ object load:676 {
      parent R4-12-47-1_meter_56; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 5258.68087185+2685.1182939j;
+     constant_power_C 6009.9209964+3068.7066216j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1826,7 +1826,7 @@ object load:677 {
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
      constant_power_B 0+0j;
-     constant_power_C 5258.68087185+2685.1182939j;
+     constant_power_C 6009.9209964+3068.7066216j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1840,7 +1840,7 @@ object load:678 {
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
      constant_power_B 0+0j;
-     constant_power_C 39479.586299999995+20158.5454j;
+     constant_power_C 45119.5272+23038.3376j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1850,7 +1850,7 @@ object load:679 {
      parent R4-12-47-1_meter_59; 
      phases BN; 
      voltage_B -3983.72-6900j; 
-     constant_power_B 32280.857000000004+17403.9327j;
+     constant_power_B 36892.408+19890.2088j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1860,7 +1860,7 @@ object load:680 {
      parent R4-12-47-1_meter_60; 
      phases AN; 
      voltage_A 7967.43+0.0j; 
-     constant_power_A 5178.6300195+2698.1126864999997j;
+     constant_power_A 5918.434308+3083.557356j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1870,7 +1870,7 @@ object load:681 {
      parent R4-12-47-1_meter_61; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 21318.976602000002+10885.6146105j;
+     constant_power_C 24364.544688+12440.702412j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1880,7 +1880,7 @@ object load:682 {
      parent R4-12-47-1_meter_62; 
      phases AN; 
      voltage_A 7967.43+0.0j; 
-     constant_power_A 777.5720715+405.122018j;
+     constant_power_A 888.653796+462.996592j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1894,7 +1894,7 @@ object load:683 {
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
      constant_power_B 0+0j;
-     constant_power_C 5258.68087185+2685.1182939j;
+     constant_power_C 6009.9209964+3068.7066216j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1906,9 +1906,9 @@ object load:684 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 77757.20715+40512.2018j;
-     constant_power_B 64561.714349999995+34807.86505j;
-     constant_power_C 78959.17259999999+40317.09115j;
+     constant_power_A 88865.3796+46299.6592j;
+     constant_power_B 73784.8164+39780.4172j;
+     constant_power_C 90239.0544+46076.6756j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1922,7 +1922,7 @@ object load:685 {
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
      constant_power_B 0+0j;
-     constant_power_C 5258.68087185+2685.1182939j;
+     constant_power_C 6009.9209964+3068.7066216j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1932,7 +1932,7 @@ object load:686 {
      parent R4-12-47-1_meter_66; 
      phases BN; 
      voltage_B -3983.72-6900j; 
-     constant_power_B 64561.714349999995+34807.86505j;
+     constant_power_B 73784.8164+39780.4172j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1942,7 +1942,7 @@ object load:687 {
      parent R4-12-47-1_meter_67; 
      phases BN; 
      voltage_B -3983.72-6900j; 
-     constant_power_B 21499.05087855+11591.01906165j;
+     constant_power_B 24570.3438612+13246.8789276j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1953,8 +1953,8 @@ object load:688 {
      phases BCN; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_B 32280.857000000004+17403.9327j;
-     constant_power_C 39479.586299999995+20158.5454j;
+     constant_power_B 36892.408+19890.2088j;
+     constant_power_C 45119.5272+23038.3376j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1964,7 +1964,7 @@ object load:689 {
      parent R4-12-47-1_meter_69; 
      phases BN; 
      voltage_B -3983.72-6900j; 
-     constant_power_B 12912.3428+6961.57315j;
+     constant_power_B 14756.9632+7956.0836j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -1977,7 +1977,7 @@ object load:690 {
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
      constant_power_A 0+0j;
-     constant_power_B 12912.3428+6961.57315j;
+     constant_power_B 14756.9632+7956.0836j;
      constant_power_C 0+0j;
      nominal_voltage 480; 
      load_class C; 
@@ -1989,8 +1989,8 @@ object load:691 {
      phases ABN; 
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
-     constant_power_A 38878.6034+20256.1009j;
-     constant_power_B 32280.857000000004+17403.9327j;
+     constant_power_A 44432.6896+23149.8296j;
+     constant_power_B 36892.408+19890.2088j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -2000,7 +2000,7 @@ object load:692 {
      parent R4-12-47-1_meter_72; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 394.795863+201.585454j;
+     constant_power_C 451.195272+230.383376j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -2010,7 +2010,7 @@ object load:693 {
      parent R4-12-47-1_meter_73; 
      phases AN; 
      voltage_A 7967.43+0.0j; 
-     constant_power_A 17884.157564+9317.806413999999j;
+     constant_power_A 20439.037216+10648.921616j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -2022,9 +2022,9 @@ object load:694 {
      voltage_A 7967.43+0.0j; 
      voltage_B -3983.72-6900j; 
      voltage_C -3983.72+6900j; 
-     constant_power_A 77757.20715+40512.2018j;
-     constant_power_B 64561.714349999995+34807.86505j;
-     constant_power_C 78959.17259999999+40317.09115j;
+     constant_power_A 88865.3796+46299.6592j;
+     constant_power_B 73784.8164+39780.4172j;
+     constant_power_C 90239.0544+46076.6756j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -2034,7 +2034,7 @@ object load:695 {
      parent R4-12-47-1_meter_75; 
      phases CN; 
      voltage_C -3983.72+6900j; 
-     constant_power_C 1579.183452+806.341823j;
+     constant_power_C 1804.781088+921.533512j;
      nominal_voltage 480; 
      load_class C; 
 } 
@@ -41761,68 +41761,4 @@ object triplex_line:2674 {
      to R4-12-47-1_tm_476_EV;
      length 30; 
      configuration triplex_line_configuration:1; 
-} 
-
-object load:664 { 
-     name R4-12-47-1_load_44_val; 
-     parent R4-12-47-1_meter_44_val; 
-     phases ABCN; 
-     voltage_A 7967.43+0.0j; 
-     voltage_B -3983.72-6900j; 
-     voltage_C -3983.72+6900j; 
-     constant_power_A 0+0j;
-     constant_power_B 0+0j;
-     constant_power_C 13.804-395.297j;
-     nominal_voltage 480; 
-     load_class C; 
-} 
-
-object meter:2167 { 
-     name R4-12-47-1_meter_44_val; 
-     phases ABCN; 
-     voltage_A 7967.43+0.0j; 
-     voltage_B -3983.72-6900j; 
-     voltage_C -3983.72+6900j; 
-     nominal_voltage 480; 
-} 
-
-object overhead_line:3313 { 
-     name R4-12-47-1_l_44_val; 
-     phases ABCN; 
-     from R4-12-47-1_meter_44; 
-     to R4-12-47-1_meter_44_val; 
-     length 8.000; 
-     configuration line_configuration:23; 
-} 
-
-object load:677 { 
-     name R4-12-47-1_load_57_val; 
-     parent R4-12-47-1_meter_57_val; 
-     phases ABCN; 
-     voltage_A 7967.43+0.0j; 
-     voltage_B -3983.72-6900j; 
-     voltage_C -3983.72+6900j; 
-     constant_power_A 0+0j;
-     constant_power_B 0+0j;
-     constant_power_C -60.924-574.3976j;
-     nominal_voltage 480; 
-     load_class C; 
-} 
-
-object meter:2180 { 
-     name R4-12-47-1_meter_57_val; 
-     phases ABCN; 
-     voltage_A 7967.43+0.0j; 
-     voltage_B -3983.72-6900j; 
-     voltage_C -3983.72+6900j; 
-     nominal_voltage 480; 
-} 
-
-object overhead_line:3313 { 
-     name R4-12-47-1_l_57_val; 
-     phases ABCN; 
-     from R4-12-47-1_meter_57; 
-     to R4-12-47-1_meter_57_val; 
-     length 8.000; 
-     configuration line_configuration:23; 
 } 

@@ -41762,3 +41762,36 @@ object triplex_line:2674 {
      length 30; 
      configuration triplex_line_configuration:1; 
 } 
+
+
+object load:677 { 
+     name R4-12-47-1_load_57_val; 
+     parent R4-12-47-1_meter_57_val; 
+     phases ABCN; 
+     voltage_A 7967.43+0.0j; 
+     voltage_B -3983.72-6900j; 
+     voltage_C -3983.72+6900j; 
+     constant_power_A 0+0j;
+     constant_power_B 0+0j;
+     constant_power_C 3.45+35.25j;
+     nominal_voltage 480; 
+     load_class C; 
+} 
+
+object meter:2180 { 
+     name R4-12-47-1_meter_57_val; 
+     phases ABCN; 
+     voltage_A 7967.43+0.0j; 
+     voltage_B -3983.72-6900j; 
+     voltage_C -3983.72+6900j; 
+     nominal_voltage 480; 
+} 
+
+object overhead_line:3313 { 
+     name R4-12-47-1_l_57_val; 
+     phases ABCN; 
+     from R4-12-47-1_meter_57; 
+     to R4-12-47-1_meter_57_val; 
+     length 8.000; 
+     configuration line_configuration:23; 
+} 
