@@ -10,7 +10,7 @@ The RX-XX.XX-X format testcases are taxonomy feeders created by PNNL. You can fi
 
 Base Testcase Name  | System Voltage | PNNL Description [1]  | Modifications
 ------------------  | -------------- | --------------------- | -------------
-R1-12.47-3     |    12.47 kV    | moderate urban area   | network is the same; some loads were modified by a factor of 5
+R1-12.47-3     |    12.47 kV    | moderate urban area   | some loads were modified by a factor of 5 and DERs were added
 R2-25.00-1     |     24.9 kV    | moderate suburban area| network is the same; some loads were modified by a factor of 2.9
 R3-12.47-3     |    12.47 kV    | heavy suburban area   | network is the same; some loads were modified by a factor of 3.865
 R4-12.47-1     |    12.47 kV    | heavy urban area      | In the EV testcase, the network is the same and some loads were modified by a factor of 4; In val, an additional load, meter, and line are added based on the L1 norm information.
